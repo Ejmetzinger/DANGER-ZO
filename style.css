@@ -17,17 +17,17 @@ img
 }
 
 .header{
-	background-color:#98fb98;
+	background-color:black;
 	text-align:center;
 	padding:20px;
 }
 .p{
-	background-color:yellow;
+	background-color:grey;
 	text-align:center;
 	padding:15px;	
 	border:solid black 3px
 }
 .topnav{
 	overflow:hidden;
-	background-color:blue
+	background-color:grey
 }
