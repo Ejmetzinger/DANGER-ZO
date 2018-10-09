@@ -39,3 +39,9 @@ img
 .topnav a:hover{
 	background-color:blue	
 }
+
+.column{
+	float:left;
+	width:33.33;
+	
+}
