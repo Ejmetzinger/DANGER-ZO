@@ -1,0 +1,41 @@
+body{
+	border: dashed orange;Background-color:#FFFB03;
+}
+
+div{
+	Display: block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border:1px;
+	
+}
+img
+{
+	float:left;
+}
+
+.header{
+	background-color:#98fb98;
+	text-align:center;
+	padding:20px;
+}
+.p{
+	background-color:yellow;
+	text-align:center;
+	padding:15px;	
+	border:solid black 3px
+}
+.topnav{
+	overflow:hidden;
+	background-color:grey
+}
+
+.topnav a{
+	
+	
+}
+.topnav a:hover{
+	background-color:blue	
+}
