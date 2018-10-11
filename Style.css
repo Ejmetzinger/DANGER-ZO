@@ -43,10 +43,14 @@ img
 .column{
 	float:left;
 	width:33.33;
-	border:solid black
+	border:solid black 4px
 	
 }
 
 
-
-
+.comlumn.side{
+	width: 25%
+}
+.column.middle{
+	width: 50%
+}
